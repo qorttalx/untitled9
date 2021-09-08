@@ -27,7 +27,7 @@ public class Main {
                 popolnenie = Integer.parseInt(in.nextLine());
             }
             else if (move == 3)
-            {
+            {rrgnhgm
                 a = popolnenie / 30;
                 b = spisanie / 30;
 
